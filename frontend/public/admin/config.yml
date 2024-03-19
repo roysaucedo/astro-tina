@@ -3,6 +3,7 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 
 publish_mode: editorial_workflow
+# edit mode
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
